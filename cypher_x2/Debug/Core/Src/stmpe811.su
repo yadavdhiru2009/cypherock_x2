@@ -1,0 +1,2 @@
+../Core/Src/stmpe811.c:10:19:DAL_I2C_stmpe811_init	40	static
+../Core/Src/stmpe811.c:35:6:DAL_I2C_stmpe811_read	40	static

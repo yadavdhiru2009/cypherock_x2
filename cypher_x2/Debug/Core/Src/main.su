@@ -1,0 +1,9 @@
+../Core/Src/main.c:82:5:main	72	static
+../Core/Src/main.c:165:6:SystemClock_Config	120	static
+../Core/Src/main.c:225:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:273:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:321:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:356:6:StartTouchTask	24	static
+../Core/Src/main.c:390:6:StartTFTTask	40	static
+../Core/Src/main.c:424:6:MPU_Config	24	static
+../Core/Src/main.c:481:6:Error_Handler	4	static,ignoring_inline_asm
